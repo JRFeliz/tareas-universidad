@@ -1,0 +1,5 @@
+﻿Build started...
+1>------ Build started: Project: Trabajo, Configuration: Debug x64 ------
+1>Trabajo.cpp
+1>Trabajo.vcxproj -> C:\Users\juanr\OneDrive\Escritorio\nuvelsida\Trabajo\x64\Debug\Trabajo.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

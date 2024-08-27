@@ -1,0 +1,3 @@
+﻿  MultInstructor.cpp
+C:\Users\juanr\OneDrive\Escritorio\nuvelsida\TrabajoFinalEstrc\MultInstructor\MultInstructor.cpp(23,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  MultInstructor.vcxproj -> C:\Users\juanr\OneDrive\Escritorio\nuvelsida\TrabajoFinalEstrc\MultInstructor\x64\Debug\MultInstructor.exe

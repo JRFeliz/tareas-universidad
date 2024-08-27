@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juanr\\OneDrive\\Escritorio\\nuvelsida\\TrabajoFinalEstrc\\MultInstructor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE734B11-64A5-4203-BF1F-86422855F7DC}|MultInstructor.vcxproj|C:\\Users\\juanr\\OneDrive\\Escritorio\\nuvelsida\\TrabajoFinalEstrc\\MultInstructor\\MultInstructor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE734B11-64A5-4203-BF1F-86422855F7DC}|MultInstructor.vcxproj|solutionrelative:MultInstructor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MultInstructor.cpp",
+              "DocumentMoniker": "C:\\Users\\juanr\\OneDrive\\Escritorio\\nuvelsida\\TrabajoFinalEstrc\\MultInstructor\\MultInstructor.cpp",
+              "RelativeDocumentMoniker": "MultInstructor.cpp",
+              "ToolTip": "C:\\Users\\juanr\\OneDrive\\Escritorio\\nuvelsida\\TrabajoFinalEstrc\\MultInstructor\\MultInstructor.cpp",
+              "RelativeToolTip": "MultInstructor.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-07T23:48:02.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
